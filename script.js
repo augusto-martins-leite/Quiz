@@ -1,11 +1,11 @@
 const questions = [
   {
-    question: "Qual é o maior animal do mundo?",
+    question: "qual o personagem que para o tempo em jojo?",
     answers: [
-      { id: 1, text: "Tubarão", correct: false },
-      { id: 2, text: "Baleia Azul", correct: true },
-      { id: 3, text: "Elefante", correct: false },
-      { id: 4, text: "Girafa", correct: false },
+      { id: 1, text: "Killer Queen", correct: false },
+      { id: 2, text: "Crazy Diamond", correct: false },
+      { id: 3, text: "Star Platinum", correct: true },
+      { id: 4, text: "Gold Experience", correct: false },
     ],
   },
   {
