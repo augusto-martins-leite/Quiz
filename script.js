@@ -9,21 +9,21 @@ const questions = [
     ],
   },
   {
-    question: "Qual é o maior deserto do mundo?",
+    question: "Qual é o vião da parte 6 de jojo?",
     answers: [
-      { id: 1, text: "Kalahari", correct: false },
-      { id: 2, text: "Gobi", correct: false },
-      { id: 3, text: "Saara", correct: true },
-      { id: 4, text: "Antartica", correct: false },
+      { id: 1, text: "Dio Brando", correct: false },
+      { id: 2, text: "Yoshikage Kira", correct: false },
+      { id: 3, text: "Enrico Pucci ", correct: true },
+      { id: 4, text: "Diavolo", correct: false },
     ],
   },
   {
-    question: "Qual é o menor continente do mundo?",
+    question: "Qual o nome do stand do polnareff?",
     answers: [
-      { id: 1, text: "Asia", correct: false },
-      { id: 2, text: "Austrália", correct: true },
-      { id: 3, text: "Ártico", correct: false },
-      { id: 4, text: "Áfria", correct: false },
+      { id: 1, text: "Killer Queen", correct: false },
+      { id: 2, text: "Silver Chariot", correct: true },
+      { id: 3, text: "Star Platinum", correct: false },
+      { id: 4, text: "Hermit Purple", correct: false },
     ],
   },
   {
